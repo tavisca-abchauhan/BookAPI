@@ -1,0 +1,5 @@
+2019-09-10 15:10:20.2276|INFO|BasicWebAPI.Service.BookService|Inside AddNewBook method
+2019-09-10 15:10:20.4525|INFO|BasicWebAPI.Service.BookService|Book added succesfully
+2019-09-10 15:10:39.8395|INFO|BasicWebAPI.Service.BookService|Returned Book List Successfully
+2019-09-10 15:29:07.8565|INFO|BasicWebAPI.Service.BookService|Returned Book List Successfully
+2019-09-10 15:30:50.8261|INFO|BasicWebAPI.Service.BookService|Returned Book List Successfully
